@@ -7,8 +7,7 @@ console.log(b);
 let c = 7;
 
 let d = {
-  name: "Eugene"
+  name: "Eugene",
 };
 
 console.log(d);
-
