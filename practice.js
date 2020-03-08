@@ -1,13 +1,9 @@
 "use strict";
+function func1() {
+  console.log("From func 1");
+}
 
-let a = 5;
-console.log(a);
-let b = 6;
-console.log(b);
-let c = 7;
+function func2() {
+  console.log("From func 2");
+}
 
-let d = {
-  name: "Eugene",
-};
-
-console.log(d);
