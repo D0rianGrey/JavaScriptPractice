@@ -16,3 +16,6 @@ function clickHandler(e) {
 link.addEventListener("click", clickHandler);
 
 //link.removeEventListener("click", clickHandler);
+
+console.log("Test");
+

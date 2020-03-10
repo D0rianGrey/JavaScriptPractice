@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "dependencies": {
     "chai": "^4.2.0",
-    "selenium-webdriver": "^4.0.0-alpha.7"
+    "command-line-usage": "^6.1.0",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.3"
   }
 }
